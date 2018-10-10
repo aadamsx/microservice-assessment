@@ -1,13 +1,13 @@
 # Microservice Assessment
 
-In the following assessment, we will break down the process build a microservice using WebAPI and ASP.NET Core.
+In the following assessment, we will break down the process build a microservice.
 
 ## Expectations
 
 - You'll be building a leaderboard, showing the top 10 players and their total score.
 - You should use an in-memory data store to handle the matches and scores.
 - Expected Classes that you'll author: `Match`, `Leaderboard`. Leaderboard be composed of a list of matches and calculate the leaderboard.
-- Use ASP.NET Core
+- Use ASP.NET Core, Python, or Node (Express).
 
 The API Calls we'll run against your API are the following, with definitions below.
 
